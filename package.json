@@ -10,9 +10,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "cevitxe-signal-server": "^0.3.0"
+    "@philschatz/cevitxe-signal-server": "^0.4.7"
   },
   "engines": {
-    "node": "10.X"
+    "node": ">=10.X"
   }
 }

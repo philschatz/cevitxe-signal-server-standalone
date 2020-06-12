@@ -1,4 +1,4 @@
-﻿const { Server } = require("cevitxe-signal-server/dist");
+﻿const { Server } = require("@philschatz/cevitxe-signal-server/dist");
 
 const DEFAULT_PORT = 8080;
 const port = Number(process.env.PORT) || DEFAULT_PORT;
